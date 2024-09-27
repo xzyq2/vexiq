@@ -1,2 +1,2 @@
 # vexiq
-rapid realay code
+rapid relay code
