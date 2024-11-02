@@ -1,2 +1,2 @@
 # Vex IQ
-66573B's Rapid Relay Code
+Team 66573B's Code for Rapid Relay
